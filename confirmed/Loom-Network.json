@@ -6,5 +6,9 @@
     "proof": [ 
         "https://goo.gl/Xkeqru",
         "https://github.com/loomnetwork/cosmos-sdk/tree/loom"
+    ],
+    "description": "The Next-Generation Blockchain Application Platform for Ethereum.",
+    "description_long": [
+       "Loom Network is a Layer 2 scaling solution for Ethereum that is live in production. It is a network of DPoS sidechains, which allows for highly-scalable games and user-facing DApps while still being backed by the security of Ethereum."
     ]
 }
