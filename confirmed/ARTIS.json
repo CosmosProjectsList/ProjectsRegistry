@@ -1,0 +1,16 @@
+{
+    "name": "ARTIS",
+    "website":"https://artis.eco/",
+    "github": "https://github.com/orgs/lab10-coop",
+    "twitter": "https://twitter.com/artis_eco",
+    "telegram": "https://t.me/joinchat/JEYz2EsBddOZr1pXVkpK8g",
+    "medium": "https://medium.com/lab10-collective",
+    "linkedin": "https://www.linkedin.com/company/lab10-coop/",
+    "lightpaper": "https://github.com/sentinel-official/sentinel/blob/master/README.md",
+    "proof": [ 
+        "https://artis.eco/en/faq -> Technical -> Consensus" 
+    ],
+    "description_long": [
+       "The ARTIS Network is an easy-to-use public blockchain system that is built with sustainability in mind by doing away with energy-intensive mining. As an Ethereum sidechain, the ARTIS Network is using the performant Parity-node software which has WebAssembly enabled – allowing every smart contract to be developed with outstanding security using Rust, C or C++. Existing DApps can migrate or use several blockchains in parallel, whatever is preferred and more suitable."
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "DATA Chain",
+    "website":"https://data.eco/",
+    "github": "https://github.com/Blockchain-DATA",
+    "telegram": "https://t.me/blockchainDATA",
+    "proof": [ 
+        "https://data.eco/" 
+    ],
+    "description_long": [
+       "DATA chain is a standalone public chain built from a fork of Ethermint (the Ethereum implementation on Tendermint consensus engine) and incorporates proof of attention (PoA) mining rules."
+    ]
+}

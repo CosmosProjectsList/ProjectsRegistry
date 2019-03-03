@@ -1,0 +1,9 @@
+{
+    "name": "IRIS",
+    "website":"https://www.irisnet.org/",
+    "github": "https://github.com/irisnet/",
+    "telegram": "https://t.me/irisnetwork",
+    "proof": [ 
+        "https://github.com/irisnet/irisnet/blob/master/WHITEPAPER.md" 
+    ]
+}

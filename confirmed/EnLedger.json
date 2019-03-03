@@ -1,0 +1,8 @@
+{
+    "name": "EnLedger",
+    "website":"https://www.enledger.io/",
+    "github": "https://github.com/enledger",
+    "proof": [ 
+        "https://github.com/enledger/standAlonePassGenerate" 
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "OmiseGo",
+    "website":"https://omisego.network/",
+    "github": "https://github.com/omise",
+    "chat": "https://chat.omisego.network/",
+    "medium": "https://medium.com/@omise_go",
+    "reddit": "https://www.reddit.com/r/omise_go/",
+    "whitepaper": "https://cdn.omise.co/omg/whitepaper.pdf",
+    "proof": [ 
+        "https://blog.omisego.network/approach-to-delivering-scalability-56d034619ef0",
+        "https://github.com/omisego/honted" 
+    ]
+}

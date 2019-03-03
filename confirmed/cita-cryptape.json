@@ -1,0 +1,11 @@
+{
+    "name": "CITA by Cryptape",
+    "website":"https://www.cryptape.com/#/",
+    "github": "https://github.com/cryptape/",
+    "proof": [ 
+        "https://github.com/cryptape/cita-whitepaper/blob/master/en/technical-whitepaper.md" 
+    ],
+    "description_long": [
+       "Given our analysis of this environment in addition to thorough understanding of the technology, we created CITA, an enterprise oriented blockchain framework that supports smart contract execution and design. CITA provides a stable, efficient, flexible and future-proof platform for enterprise-level blockchain applications."
+    ]
+}

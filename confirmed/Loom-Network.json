@@ -1,0 +1,10 @@
+{
+    "name": "Loom Network",
+    "website":"https://loomx.io/",
+    "github": "https://github.com/loomnetwork",
+    "telegram": "https://t.me/loomnetwork",
+    "proof": [ 
+        "https://goo.gl/Xkeqru",
+        "https://github.com/loomnetwork/cosmos-sdk/tree/loom"
+    ]
+}

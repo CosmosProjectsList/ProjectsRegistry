@@ -1,0 +1,9 @@
+{
+    "name": "INSCHAIN",
+    "website":"https://inschain.io/",
+    "github": "https://github.com/InsChain/",
+    "telegram": "https://t.me/inschain_official",
+    "proof": [ 
+        "https://github.com/InsChain/tendermint-public" 
+    ]
+}
