@@ -3,7 +3,14 @@
     "website":"https://www.irisnet.org/",
     "github": "https://github.com/irisnet/",
     "telegram": "https://t.me/irisnetwork",
+    "twitter":"https://twitter.com/irisnetwork/",
+    "medium": "https://medium.com/irisnet-blog",
+    "whitepaper": "https://github.com/irisnet/irisnet/blob/master/WHITEPAPER.md",
     "proof": [ 
         "https://github.com/irisnet/irisnet/blob/master/WHITEPAPER.md" 
+    ],
+    "description": "Inter-chain service infrastructure and protocol for building trustworthy and distributed business applications",
+    "description_long": [
+       "The IRIS network aims to deploy the same topology as Cosmos while adding a set of complementary features to the ecosystem. IRIS will connect to the Cosmos Hub, making an expanded set of functions available to any participant connected at any point in the network. IRIS full nodes, developed with the IRIS SDK (an extension of the Cosmos SDK), will provide both a service-oriented infrastructure and integration of IPFS."
     ]
 }
