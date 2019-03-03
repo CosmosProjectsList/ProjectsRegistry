@@ -1,0 +1,15 @@
+{
+    "name": "e-money.com",
+    "website":"https://e-money.com/",
+    "github": "https://github.com/block-finance",
+    "telegram": "https://t.me/block_finance",
+    "proof": [ 
+        "https://e-money.com/ -> Technology section" 
+    ],
+    "description_long": [
+        "Today’s global transaction market is filled with high and non-transparent fees as well as lengthy processes.",
+        "Engaging in a global money transfer is both expensive and unnecessarily slow.",
+        "What if you could transfer money from one account to another anywhere in the world, with low cost transparent fees and in real-time, making the transaction instant and painless?",
+        "e-Money empowers People and Businesses to make instant global transactions using the technology of tomorrow."
+    ]
+}
