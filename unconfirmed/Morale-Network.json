@@ -1,0 +1,13 @@
+{
+    "name": "Moracle Network",
+    "website":"https://moracle.network/",
+    "twitter": "https://twitter.com/MoracleNetwork",
+    "whitepaper": "https://moracle.network/whitepaper.pdf",
+    "proof": [ 
+        "https://moracle.network/ -> Roadmap" 
+    ],
+    "description": "Smarter blockchain applications need smarter oracles. Introducing Moracle, the decentralized and programmable oracle.",
+    "description_long": [
+       "Moracle aims to solve these problems by offering an inexpensive, decentralized, and fast oracle service. Built on the Lisk Blockchain Application Platform, Moracle will allow for connected and dynamic decentralized apps."
+    ]
+}

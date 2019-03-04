@@ -1,0 +1,19 @@
+{
+    "name": "Farbole",
+    "website": "https://www.forbole.com/",
+    "github": "https://github.com/forbole",
+    "telegram": "https://t.me/forbole",
+    "whitepaper": "https://github.com/forbole/whitepaper/blob/master/README.md",
+    "twitter": "https://twitter.com/forbole",
+    "medium": "https://medium.com/forbole",
+    "youtube": "https://www.youtube.com/channel/UCgDS_e-jCvHBDOPvuZDWqAg",
+    "linkedin": "https://www.linkedin.com/company/13453181/",
+    "facebook": "https://www.facebook.com/Forbole/",
+    "proof": [ 
+        "https://medium.com/forbole/why-we-choose-cosmos-over-ethereum-3b39a17a6b58" 
+    ],
+    "description": "A social networking ecosystem of the users, by the users, for the users.",
+    "description_long": [
+       "Forbole is an initiative to build an ecosystem of decentralized social networks. We want to change the corrupted centralized social networks by introducing new business models and new mindsets."
+    ]
+}

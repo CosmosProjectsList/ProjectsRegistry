@@ -1,0 +1,18 @@
+{
+    "name": "Lino Network",
+    "website":"https://lino.network/",
+    "github": "https://github.com/lino-network",
+    "telegram": "https://t.me/joinchat/HE1lF0cPRPDt61Gnh8KH3A",
+    "medium": "https://lino.network/images/social/medium.png",
+    "reddit": "https://www.reddit.com/r/lino_network/",
+    "linkedin": "https://www.linkedin.com/company/linocorp/",
+    "twitter": "https://twitter.com/lino_network",
+    "proof": [ 
+        "4. Decision on Choosing Cosmos -> https://medium.com/@linonetwork/lino-network-annual-report-87c0823a132c",
+        "https://github.com/lino-network/cosmos-sdk"
+    ],
+    "description": "Build a decentralized autonomous content economy.",
+    "description_long": [
+       "Content creators, are facing content monetization challenges. Lino aims to create a decentralized autonomous content economy by leveraging the blockchain technology. In this economy, content value can be recognized efficiently, and all contributors can be incentivized in a more direct and effective manner that helps promote long-term economic growth for individual creators and for content creation generally."
+    ]
+}

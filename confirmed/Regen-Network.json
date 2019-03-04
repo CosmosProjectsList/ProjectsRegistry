@@ -1,0 +1,23 @@
+{
+    "name": "Regen Network",
+    "website":"https://www.regen.network/",
+    "twitter": "http://twitter.com/regen_network",
+    "telegram": "http://t.me/regennetwork_public",
+    "facebook": "https://facebook.com/weareregennetwork",
+    "linkedin": "https://www.linkedin.com/company/regen-network/",
+    "medium": "https://medium.com/regen-network",
+    "reddit": "https://reddit.com/r/regen_network/",
+    "youtube": "https://www.youtube.com/channel/UCICD2WukTY0MbQdQ9Quew3g",
+    "whitepaper": "https://regen-network.gitlab.io/whitepaper/WhitePaper.pdf",
+    "proof": [ 
+        "https://imgur.com/a/MVzN5",
+        "Whitepaper: 5.4.3 Governance and consensus mechanisms"
+    ],
+    "description": "Reinventing the Economics of Agriculture",
+    "description_long": [
+       "Taking a decentralized approach to this aim requires an ecosystem of organizations, each with their own important role.", 
+       "Regen Foundation will spearhead the scientific research and infrastructure development necessary to create transparent and open Ecological State Protocols.",
+       "Regen Consortium will act as the democratic body that stewards the ledger and the cultural shift towards truecost accounting.",
+       "And, Regen Ledger will be the domain-specific blockchain acting as the transparent balance sheet for Earth."
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "orijtech, Inc.",
+    "website":"https://orijtech.com/",
+    "github": "https://github.com/orijtech",
+    "telegram": "https://t.me/oneledger",
+    "medium": "https://medium.com/@OneLedger",
+    "linkedin": "https://www.linkedin.com/company/orijtech/",
+    "twitter": "https://twitter.com/OneLedgerTech",
+    "email": "emmanuel@orijtech.com",
+    "youtube": "https://www.youtube.com/channel/UCqazyMCaD7lH-IBZrb33WPg",
+    "reddit": "https://reddit.com/r/Oneledger",
+    "facebook": "https://www.facebook.com/orijtech/",
+    "proof": [ 
+        "https://imgur.com/gallery/487aukT" 
+    ],
+    "description": "All things software, connect experiences with it",
+    "description_long": [
+       "Cloud",
+       "Distributed systems",
+       "Distributed Monitoring and Tracing",
+       "High Performance Computing",
+       "API infrastructure",
+       "Data storage",
+       "Research",
+       "Open Source Software",
+       "Go language consultations"
+    ]
+}

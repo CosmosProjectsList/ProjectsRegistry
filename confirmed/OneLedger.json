@@ -1,0 +1,22 @@
+{
+    "name": "OneLedger",
+    "website":"https://oneledger.io/",
+    "github": "https://github.com/Oneledger/",
+    "telegram": "https://t.me/oneledger",
+    "medium": "https://medium.com/@OneLedger",
+    "linkedin": "https://www.linkedin.com/company/oneledger-innovative-tech-inc/",
+    "twitter": "https://twitter.com/OneLedgerTech",
+    "email": "hello@oneledger.io",
+    "youtube": "https://www.youtube.com/channel/UCqazyMCaD7lH-IBZrb33WPg",
+    "reddit": "https://reddit.com/r/Oneledger",
+    "facebook": "https://www.facebook.com/OneLedgerTech/",
+    "whitepaper": "https://oneledger.io/whitepaper/oneledger-whitepaper.en.pdf",
+    "proof": [ 
+        "https://imgur.com/bUH1mpm" 
+    ],
+    "description": "A Universal Blockchain Protocol Enabling Cross-ledger Access through Business Modularization.",
+    "description_long": [
+       "OneLedger is a cross-ledger agnostic protocol that enables high-performance scaling using a sharded and modified practical Byzantine Fault Tolerant consensus scheme -- which allows for either a permissionless or permissioned setting. By coupling public key infrastructure (PKI) with identity management, nodes (and node operators) will have a defined trust hierarchy that allows them to participate in the consensus of the OneLedger chain or any sidechain. OneLedger sidechains can be synchronized with the current state of other networks (Ethereum, Bitcoin, etc.). Any cryptocurrency that supports hashed time lock contracts (HTLC) and payment channels could be deposited into an account or address with the amount credited onto the OneLedger sidechain. This allows for a scalable and transparent solution that is off the main network or chain and is now off-loaded to the OneLedger sidechain. An arbitrary number of transactions between users can occur on a OneLedger sidechain prior to the final user requesting a withdrawal of their balance from the hashed time lock address / account on the main chain to the address / account of their choice. Essentially, OneLedger provides a scalable `off-chain` solution from any main chain and offloads the consensus to the corresponding OneLedger sidechain which inherits all of the properties of the OneLedger protocol.",
+       "By using role control with PKI, enterprises can also launch their own permissioned sidechains. Businesses will be able to define the precise role of node operators that participate on their sidechain. In addition, by utilizing OneLedger’s unified framework, companies can develop their distributed ledger technology application with a single codebase and simultaneously launch their product across multiple infrastructure networks of their choosing."
+    ]
+}

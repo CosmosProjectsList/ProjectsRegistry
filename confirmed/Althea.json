@@ -1,0 +1,18 @@
+{
+    "name": "Althea",
+    "website":"https://altheamesh.com/",
+    "github": "https://github.com/althea-mesh",
+    "telegram": "https://t.me/joinchat/HE1lF0cPRPDt61Gnh8KH3A",
+    "chat": "https://riot.im/app/#/room/#althea:matrix.org",
+    "youtube": "https://www.youtube.com/channel/UC9B6l5k2NF2Gu_aCRBhe9Gw",
+    "blog": "https://blog.althea.org/",
+    "whitepaper": "https://althea.org/whitepaper",
+    "twitter": "https://twitter.com/AltheaOrg?lang=en",
+    "proof": [ 
+        "https://altheamesh.com/documents/whitepaper.pdf -> (Page 13)"
+    ],
+    "description": "Faster, cheaper, decentralized internet",
+    "description_long": [
+       "Althea is a system that lets routers pay each other for bandwidth. This allows people to set up decentralized ISPs in their communities. In an Althea network, instead of one ISP at the top collecting monthly payments, many different people can earn money by expanding and strengthening the network."
+    ]
+}

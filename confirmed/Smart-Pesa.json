@@ -1,0 +1,21 @@
+{
+    "name": "Smart Pesa",
+    "website":"https://www.smartpesa.com/",
+    "github": "http://github.com/smartpesa",
+    "telegram": "https://t.me/smartpesa",
+    "youtube": "https://www.youtube.com/channel/UCpXZiFQSd3OKo5RZSRPB7ag/videos",
+    "linkedin": "https://www.linkedin.com/company/smartpesa",
+    "twitter": "https://twitter.com/smartpesa",
+    "facebook": "https://www.facebook.com/smartpesa",
+    "proof": [ 
+        "https://tozzi21.wordpress.com/author/tozzi21/" 
+    ],
+    "description": "SmartPesa, Powering Smart Transactions",
+    "description_long": [
+       "Omnichannel payments and agency banking solutions provider, incorporating mPOS, card and non-card based payments",
+       "SmartPesa softPOS - Secure Contactless payment acceptance on any NFC enabled mobile phone, tablet or kiosk hardware running Android – for both VISA payWave and MasterCard payPass, and also accepts Android Pay, Samsung Pay and Apple Pay payments.",
+       "Agency Banking - A complete set of transaction banking services in a single platform providing all ATM transactions, convenience fees, referral fees, cashflow management and performance reporting. Grow your customer base and scale their reach with onboarding, card activation, pin change and secure over-the-counter transactions.",
+       "Omnichannel Merchant Acquiring - Allow your merchants to accep payments anywhere. Centrally managed platform covers all aspects of acquiring: from onboarding and eKYC to hardware and reporting. Accept cards, Contactless and QR. Optimise acquiring with performance and utilisation metrics.",
+       "Turnkey Agency Banking - Utilises SmartPesa card present and cardless payment solution to turn card readers into miniATMs, extending banks’ networks across the Last Mile. Quickly expand your financial services network into rural areas at very low cost."
+    ]
+}

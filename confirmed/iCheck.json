@@ -1,0 +1,15 @@
+{
+    "name": "iCheck",
+    "website":"http://icheckcorp.com/",
+    "github": "https://github.com/icheckteam",
+    "email": "dev@icheck.vn",
+    "telegram": "https://t.me/ichainproject",
+    "whitepaper": "https://github.com/icheckteam/documentation",
+    "proof": [ 
+        "https://github.com/icheckteam/ichain"
+    ],
+    "description": "iCheck provides technology solutions for enterprises through code, bar code, the QR code with an unlimited amount of data and absolute security system.",
+    "description_long": [
+       "Ichain is a blockchain developed based on tendermint. Ichain makes deploying, connecting multiple networks and running supply chain access applications easier."
+    ]
+}

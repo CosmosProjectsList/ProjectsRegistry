@@ -1,0 +1,12 @@
+{
+    "name": "Parsec Labs",
+    "website":"https://parseclabs.org/",
+    "github": "https://github.com/parsec-labs",
+    "telegram": "https://t.me/parseclabs",
+    "slack": "http://join.parseclabs.org/",
+    "blog": "https://parseclabs.org/blog/",
+    "proof": [ 
+        "https://parseclabs.org/blog/Development-Update-May-2018/" 
+    ],
+    "description": "We build a Plasma chain to give scalable dApps a home to live in."
+}

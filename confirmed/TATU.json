@@ -1,0 +1,21 @@
+{
+    "name": "TATU",
+    "website":"https://tatau.io/",
+    "twitter": "https://twitter.com/Tatau_io",
+    "telegram": "https://telegram.me/tatau_io",
+    "email": "info@tatau.io",
+    "linkedin": "https://www.linkedin.com/company/tatau_io/",
+    "medium": "https://blog.tatau.io/",
+    "reddit": "https://www.reddit.com/r/tatau/",
+    "youtube": "https://youtube.com/c/tatau_io",
+    "whitepaper": "https://regen-network.gitlab.io/whitepaper/WhitePaper.pdf",
+    "proof": [ 
+        "https://tatau.io/img/en/final_tatau_wp.pdf",
+        "https://www.hibtc.org/19333.html",
+        "https://xnews.io/airdrop/tatau-is-a-blockchain-based-ai-computing-platform/"
+    ],
+    "description": "Supercomputing platform for AI",
+    "description_long": [
+       "Accelerating innovation in AI by providing supercomputing at dramatically reduced pricing. We do this by harnessing a worldwide network of distributed GPUs"
+    ]
+}

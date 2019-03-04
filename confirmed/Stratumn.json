@@ -1,0 +1,16 @@
+{
+    "name": "Stratumn",
+    "website":"https://stratumn.com/",
+    "github": "https://github.com/stratumn",
+    "chat": "https://gitter.im/stratumn",
+    "twitter": "https://twitter.com/StratumnHQ",
+    "proof": [ 
+        "https://github.com/stratumn/go-indigocore" 
+    ],
+    "description": "We’re Revolutionizing Trust",
+    "description_long": [
+       "At Stratumn, we believe in the power of processes. Together, we leverage the blockchain, advanced cryptography and our own Proof of Process (PoP) technology to guarantee compliance, privacy, security, traceability, all while reducing operational costs and improving the customer journey.",
+       "We’re creating a new form of trust. With our next-generation networks, every step is secured through a cryptographic audit trail. The result? Trust is returned to businesses, networks and supply chains. And the knock-on benefits are huge.",
+       "Blockchains are just the beginning. Using our own technology and products, we build on the blockchain to meet the diverse, emerging needs of the network economy"
+    ]
+}

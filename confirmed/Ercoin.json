@@ -1,0 +1,12 @@
+{
+    "name": "Ercoin",
+    "website":"https://ercoin.tech/",
+    "gitlab": "https://gitlab.com/Ercoin",
+    "telegram": "https://t.me/ercoin_chat",
+    "twitter": "https://twitter.com/ErcoinTech",
+    "irc": "irc://irc.freenode.net/ercoin",
+    "proof": [ 
+        "https://gitlab.com/search?utf8=%E2%9C%93&search=tendermint&group_id&project_id=3844700&search_code=true&repository_ref=master" 
+    ],
+    "description": "Ercoin is a proof of stake cryptocurrency written in Erlang using Tendermint and released under Apache License 2.0."
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Fourth State",
+    "website":"http://fourthstate.network/",
+    "github": "https://github.com/fourthstate",
+    "email": "team@fourthstate.network",
+    "slack": "https://berkeleyblockchain.slack.com/",
+    "proof": [ 
+        "https://blockchainatberkeley.blog/fourthstate-is-implementing-plasma-6fe99019edb2" 
+    ]
+}

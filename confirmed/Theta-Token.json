@@ -1,0 +1,16 @@
+{
+    "name": "THETA NETWORK",
+    "website":"https://www.thetatoken.org/",
+    "github": "https://github.com/thetatoken",
+    "telegram": "https://t.me/thetatoken",
+    "medium": "https://medium.com/theta-network",
+    "twitter": "https://twitter.com/Theta_Network",
+    "facebook": "https://www.facebook.com/ThetaNetwork/",
+    "proof": [ 
+        "https://medium.com/@ThetaLabs/theta-network-roadmap-for-2018-90c4fbf2cf4a" 
+    ],
+    "description": "Next generation video delivery powered by you.",
+    "description_long": [
+       "The Theta blockchain is the only end-to-end infrastructure for decentralized video streaming and delivery that provides both technical and economic solutions...This is one of the most exciting new blockchain ventures I have heard about"
+    ]
+}
