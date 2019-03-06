@@ -1,0 +1,18 @@
+{
+    "name": "Kava",
+    "website":"https://kava.io/",
+    "telegram": "https://t.me/kavalabs",
+    "github": "https://github.com/Kava-Labs/",
+    "medium": "https://medium.com/kava-labs",
+    "youtube": "https://www.youtube.com/channel/UChauw9EMD1DC-ny_cjoLs8A",
+    "riot": "https://riot.im/app/#/room/%23kava-validators:matrix.org",
+    "linkedin": "https://www.linkedin.com/company/kava-labs/",
+    "twitter": "https://twitter.com/kava_labs",
+    "proof": [ 
+        "https://github.com/Kava-Labs/kava"
+    ],
+    "description": "Interledger Solutions for Blockchains, Wallets, and Exchanges",
+    "description_long": [
+       "Kava is creating blockchain interoperability by creating Interledger (ILP) “connectors” or bridges that transfer value between different blockchains as a service. Kava is also creating a specialized tendermint-based blockchain designed to enhance the ILP user experience by enabling faster payment channel creation and settlement."
+    ]
+}

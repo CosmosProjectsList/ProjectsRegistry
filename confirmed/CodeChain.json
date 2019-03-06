@@ -1,0 +1,22 @@
+{
+    "name": "Code Chain",
+    "website":"https://codechain.io/",
+    "github": "https://github.com/CodeChain-io",
+    "medium": "https://medium.com/codechain",
+    "gitter": "https://gitter.im/CodeChain-io/codechain",
+    "email": "codechain@kodebox.io",
+    "whitepaper": "https://codechain.io/CodeChain_white_paper_v0.1.0.pdf",
+    "twitter": "https://twitter.com/codechain_io",
+    "proof": [ 
+        "https://codechain.readthedocs.io/en/latest/basic-usage.html?highlight=tendermint" 
+    ],
+    "description": "An end-to-end solution for real-world asset digitization.",
+    "description_long": [
+       "Legal compliance - Token-level built-in support for regulatory compliant issuance and transactions (KYC/AML)",
+       "Programmable assets - Instant dividend or interest payouts, buybacks, voting, asset composition/ decomposition/recomposition",
+       "Increased liquidity - Native support for algorithm- based autonomous liquidity reserve mechanism",
+       "Public blockchain - Blockchain offers decentralized, secure, transparent, and immutable transactions",
+       "Privacy protection - Chain-level control over privacy for assets and owners",
+       "No issuance or trading - feesThe platform only charges network transaction fees"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Hashgard",
+    "website":"https://www.hashgard.io/#/",
+    "telegram": "https://t.me/hashgardeng",
+    "github": "https://github.com/hashgard",
+    "medium": "https://medium.com/@hashgard",
+    "facebook": "https://www.facebook.com/gard.hash.5",
+    "reddit": "https://www.reddit.com/r/Hashgard/",
+    "linkedin": "https://www.linkedin.com/company/hashgard/",
+    "whitepaper": "https://hashgard-io.oss-cn-hongkong.aliyuncs.com/overview-us.pdf",
+    "twitter": "https://twitter.com/Hashgard1",
+    "proof": [ 
+        "https://medium.com/@hashgard/hashgard-establishes-strategic-partnership-with-irisnet-in-depth-analysis-d00cc8fa5db5",
+        "https://github.com/hashgard/cosmos-sdk-docs-cn"
+    ],
+    "description": "Distributed, trusted asset management protocol and a high functionality next generation digital finance public chain.",
+    "description_long": [
+       "Hashgard provides a one-stop blockchain solution for asset management in digital finance. Hashgard has a large number of business modules, including operational-level on-chain data, advanced versions of asset management autonomous organization, a smart contract system tailored for asset management, able to systematically support the issuance, management, trusteeship, settlement, audit, process control, and dispute arbitration of decentralized assets."
+    ]
+}

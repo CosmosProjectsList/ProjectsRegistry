@@ -1,0 +1,19 @@
+{
+    "name": "LikeCoin",
+    "website":"https://like.co/",
+    "telegram": "https://t.me/likecoin",
+    "github": "https://github.com/likecoin/",
+    "medium": "https://medium.com/likecoin",
+    "facebook": "https://www.facebook.com/likecoin.foundation",
+    "youtube": "https://www.youtube.com/c/LikeCoin",
+    "whitepaper": "https://like.co/in/whitepaper",
+    "onepager": "https://like.co/in/likecoin-onepager-en.pdf",
+    "twitter": "https://twitter.com/likecoin_fdn",
+    "proof": [ 
+        "https://github.com/likecoin/likechain" 
+    ],
+    "description": "Rewarding Contents by Proof of Creativity",
+    "description_long": [
+       "LikeCoin aims to reinvent the Like by realigning creativity and reward. We enable attribution and cross-application collaboration on creative contents. With a reinvented Like button and our unique LikeRank algorithm, we trace content footprint and reward content creators by Proof of Creativity mechanism."
+    ]
+}

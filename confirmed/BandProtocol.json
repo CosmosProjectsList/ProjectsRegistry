@@ -1,0 +1,18 @@
+{
+    "name": "Band Protocol",
+    "website": "https://bandprotocol.com/",
+    "telegram": "https://github.com/bandprotocol",
+    "medium": "https://medium.com/bandprotocol",
+    "github": "https://github.com/bandprotocol",
+    "email": "connect@bandprotocol.com",
+    "whitepaper": "https://codechain.io/CodeChain_white_paper_v0.1.0.pdf",
+    "twitter": "https://twitter.com/bandprotocol",
+    "proof": [ 
+        "https://github.com/bandprotocol/bandchain",
+        "https://bandprotocol.com/static/media/band-unleashing-tokenized-v1.1.1.6a7d4d36.pdf" 
+    ],
+    "description": "Band Protocol is a toolkit for making token-powered communities.",
+    "description_long": [
+       "Band Protocol is a blockchain protocol for decentralised community curation. We incentivise trusted, high-quality data sharing in online community via token staking and bonding curve mechanism."
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "NINDI Platform",
+    "website": "http://www.digitalid.or.th/",
+    "youtube": "https://www.youtube.com/watch?v=E8HHNRRlsoo",
+    "github": "https://github.com/ndidplatform",
+    "slack": "https://bit.ly/2MNDyLI",
+    "whitepaper": "https://goo.gl/v4Cfpe",
+    "twitter": "https://twitter.com/bandprotocol",
+    "proof": [ 
+        "https://ndidplatform.github.io/",
+        "https://docs.google.com/document/d/1SKydNM-Nyox62m3vuvYgFYCr8ABVQV8RhjwiMjdCpQ8/edit" 
+    ],
+    "description": "Development hub for Thailand National Digital ID platform.",
+    "description_long": [
+       "The National Digital ID Platform is an intermediary and open infrastructure that provides online service providers (Relaying Party) with standardised ways to identify and authenticate their subscribers or customers using existing digital identifications. Then the Platform would allow the customers or subscribers to access a variety of services remotely.",
+       "Examples of digital identifications could include user accounts on the governmental services, such as the Revenue Department (RD) and the Department of Business Development (DBD), Internet Banking accounts and e-Wallet accounts."
+    ]
+}

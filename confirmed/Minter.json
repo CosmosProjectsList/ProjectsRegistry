@@ -1,0 +1,20 @@
+{
+    "name": "Minter",
+    "website":"https://www.minter.network/",
+    "telegram": "https://tele.click/MinterTeam",
+    "github": "https://github.com/MinterTeam",
+    "medium": "https://medium.com/@MinterTeam",
+    "gitter": "https://gitter.im/CodeChain-io/codechain",
+    "reddit": "https://www.reddit.com/r/Minter/",
+    "facebook": "https://www.facebook.com/MinterNetwork",
+    "whitepaper": "https://about.minter.network/Minter_White_Paper.pdf?_ga=2.8255026.1492391018.1551909178-2127117470.1551909178",
+    "linkedin": "https://www.linkedin.com/company/minternetwork/",
+    "twitter": "https://twitter.com/MinterTeam",
+    "proof": [ 
+        "https://medium.com/@MinterTeam/minter-white-paper-version-0-1-2ab4020c7438" 
+    ],
+    "description": "Bitcoin was invented a decade ago. Isn’t it time for the next step?",
+    "description_long": [
+       "Imagine a blockchain that would allow you to create your own coin and transfer it or exchange it for all of the other coins issued in the network—as well as Bitcoin, Ether, and even USD—in an instant, limitless manner. Imagine the next-generation cryptocurrencies."
+    ]
+}
