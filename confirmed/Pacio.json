@@ -1,0 +1,19 @@
+{
+    "name": "Pacio",
+    "website":"https://www.pacio.io/",
+    "github": "https://github.com/Pacio-io",
+    "telegram": "https://t.me/joinchat/AAAAAE23ZT4G4tBj3cOjNA",
+    "litepaper": "https://www.pacio.io/docs/PacioLite.pdf",
+    "whitepaper": "https://www.pacio.io/docs/Pacio_White_Paper.pdf",
+    "email": "marcell@pacio.io",
+    "blog": "https://blog.pacio.io",
+    "facebook": "https://www.facebook.com/Pacio_io-277540759452098/",
+    "twitter": "https://twitter.com/Pacio_io",
+    "proof": [ 
+        "https://www.pacio.io/docs/Pacio_White_Paper.pdf"
+    ],
+    "description": "Data without Boundaries",
+    "description_long": [
+       "Pacio will change the reality by delivering the Data without Boundaries future to reduce data redundancy, knowledge gaps, fraud, and expense while increasing opportunities, privacy, and security. Data silos will be replaced by harmonised real time knowledge."
+    ]
+}

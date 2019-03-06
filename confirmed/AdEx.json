@@ -1,0 +1,20 @@
+{
+    "name": "AdEx",
+    "website":"https://www.adex.network/",
+    "github": "https://github.com/AdExNetwork",
+    "telegram": "https://t.me/AdExNetwork",
+    "reddit": "https://www.reddit.com/r/AdEx/",
+    "whitepaper": "https://github.com/AdExNetwork/adex-protocol",
+    "twitter": "https://twitter.com/AdEx_Network",
+    "medium": "https://medium.com/the-adex-blog",
+    "facebook": "https://www.facebook.com/AdEx-by-Stremio-756186427900381/",
+    "discord": "https://discord.gg/nMBGJsb",
+    "proof": [ 
+        "https://github.com/AdExNetwork/adex-protocol-cosmos"
+    ],
+    "description": "NO MORE AD FRAUD. JUST SOLID ADVERTISING.",
+    "description_long": [
+       "Reach your target audience and make the most of your marketing budgets. Make sure you never pay for invalid clicks again!",
+        "Monetize your online influence. Connect with trusted advertisers and get paid for quality traffic."
+    ]
+}

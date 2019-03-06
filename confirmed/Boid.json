@@ -1,0 +1,17 @@
+{
+    "name": "Boid",
+    "website":"https://www.boid.com/",
+    "github": "https://github.com/Boid-John",
+    "telegram": "https://t.me/Boidcom_official",
+    "discord": "https://discordapp.com/invite/zJnRpVz",
+    "medium": "https://medium.com/fluence-network/",
+    "email": "contact@boid.com",
+    "twitter": "https://twitter.com/boidcom",
+    "proof": [ 
+        "https://forum.cosmos.network/t/about-the-ecosystem-category/15/2"
+    ],
+    "description": "The Social Supercomputer",
+    "description_long": [
+       "We are currently testing Tendermint + lotion for the Boid Blockchain. Delegates on our platform will be responsible for providing oracle data from blockchains and distributed computing project. This data is used to determine block rewards for users who participate in Boid. We like that the Tendermint codebase is modern and modular. We think the hub+spoke model of Cosmos is a great solution for scaling and experimenting with novel new features."
+    ]
+}

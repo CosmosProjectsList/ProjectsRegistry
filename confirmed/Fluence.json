@@ -1,0 +1,18 @@
+{
+    "name": "Fluence",
+    "website":"https://fluence.one/",
+    "github": "https://github.com/fluencelabs",
+    "telegram": "https://t.me/FluenceOne",
+    "reddit": "https://www.reddit.com/r/fluence",
+    "twitter": "http://twitter.com/Fluence_One",
+    "medium": "https://medium.com/fluence-network/",
+    "youtube": "https://www.youtube.com/channel/UC3h9PCg16Xi7plc_UunW26A",
+    "gitter": "https://gitter.im/fluencelabs/",
+    "proof": [ 
+        "https://github.com/fluencelabs/tendermint-demo"
+    ],
+    "description": "Manage your data in a decentralized environment",
+    "description_long": [
+       "Fluence network provides a permissionless infrastructure to aggregate, store, and process data from various decentralized sources."
+    ]
+}

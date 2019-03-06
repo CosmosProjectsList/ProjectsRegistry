@@ -1,0 +1,22 @@
+{
+    "name": "Acash Network",
+    "website":"https://akash.network/",
+    "github": "https://github.com/ovrclk/akash/",
+    "telegram": "https://t.me/AkashNW",
+    "whitepaper": "https://docsend.com/view/fygzt3g",
+    "linkedin": "https://www.linkedin.com/company/ovrclk/",
+    "twitter": "https://twitter.com/AkashCloudNet",
+    "lightpaper": "https://docsend.com/view/yvgseww",
+    "facebook": "https://www.facebook.com/akashnw/",
+    "blog": "https://blog.akash.network/",
+    "proof": [ 
+        "https://github.com/ovrclk/akash/search?q=tendermint&unscoped_q=tendermint"
+    ],
+    "description": "Decentralized protocol for provisioning, scaling and securing cloud workloads",
+    "description_long": [
+       "The Cloud has a problem.",
+       "Up to 85% of the world’s compute capacity sits unused in datacenters all over the globe while hyperscale cloud compute providers enjoy bloated margins born of lack of competition.",
+       "Akash is the solution.",
+       "Akash corrects this imbalance by providing an open marketplace connecting companies with idle compute capacity to users who need it. Akash also provides the tools needed to configure, deploy, monitor, and manage containerized workload"
+    ]
+}

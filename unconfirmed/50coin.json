@@ -1,0 +1,12 @@
+{
+    "name": "50 Coin",
+    "website":"https://50coin.io/",
+    "telegram": "https://t.me/Official50",
+    "proof": [ 
+        "https://goo.gl/uc9f3G"
+    ],
+    "description": "50/50 cryptocurrency and utility token",
+    "description_long": [
+       "Think of 50 Coin as 50/50 cryptocurrency and utility token, with the best of both worlds - a low maximum total circulation supply of 50,000,000 FFTY, and the utility and faster transaction speed of Ethereum with its smart contract capability and cross-chain atomic swappability of ERC20 tokens. But FFTY is more than that: 50 Coin is built future-proof, existing on its own high-throughput, multi-dimensionally scalable (concensus scalable, state machine scalable, and interchain scalable), sovereign blockchain, hub, and zone, with CarbonSmart Tendermint Proof-of-Stake (PoS), cross-chain crypto-asset transferability with Bitcoin, Ethereum, ERC20 tokens, future ERC223 tokens, and Inter-Blockchain Communication (IBC) interoperability with infinite existing and future blockchains. And quite notably, stakers of 50 Coin earn substantial PoS interest for 5 years."
+    ]
+}

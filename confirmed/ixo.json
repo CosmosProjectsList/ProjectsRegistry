@@ -1,0 +1,19 @@
+{
+    "name": "ixo",
+    "website":"http://ixo.foundation/",
+    "github": "https://github.com/ixofoundation",
+    "linkedin": "https://www.linkedin.com/company/25001970/admin/updates/",
+    "telegram": "https://t.me/ixonetwork",
+    "twitter": "https://twitter.com/ixoworld?lang=en",
+    "medium": "https://medium.com/ixo-blog",
+    "facebook": "https://www.facebook.com/ixoworld/",
+    "email": "nfo@ixo.world",
+    "proof": [ 
+        "https://medium.com/ixo-blog/weekly-update-may-14th-2018-ce306efdc66"
+    ],
+    "description": "Measuring impact with trusted data",
+    "description_long": [
+       "ixo provides a global information network that is owned by everyone. This enables you to create your own impact projects and to participate as a stake-holder in the projects you believe in. Impact claims submitted to the project are verified to prove results and account for progress.",
+        "ixo is a blockchain built to ledger impact projects and work done in pursuit of the sustainable development goals. Its makes this project data visible, so that the progress of these projects can be easily tracked by investors. It is built on tendermint and uses the cosmos SDK."
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Vega Protocol",
+    "website":"https://vegaprotocol.io/",
+    "github": "https://github.com/vegaprotocol",
+    "linkedin": "https://www.linkedin.com/company/vega-protocol/",
+    "email": "hi@vegaprotocol.io",
+    "twitter": "https://twitter.com/vegaprotocol",
+    "medium": "https://medium.com/vegaprotocol",
+    "youtube": "https://www.youtube.com/channel/UC3xDuTW9fd1Y7jpCkOwOuHQ",
+    "proof": [ 
+        "https://www.mbarlow.com/ethereum-london-meetup-vega/"
+    ],
+    "description": "Smart infrastructure for a better financial system.",
+    "description_long": [
+       "Vega is creating the building blocks for a new financial system to open access, reduce cost, and enable a new wave of financial market innovation."
+    ]
+}
