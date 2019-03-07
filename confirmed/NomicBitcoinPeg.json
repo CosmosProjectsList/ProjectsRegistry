@@ -1,0 +1,14 @@
+{
+    "name": "Bitcoin-Peg by Nomic",
+    "website":"http://nomic.io/",
+    "github": "https://github.com/nomic-io",
+    "proof": [ 
+        "https://github.com/nomic-io/bitcoin-peg"
+    ],
+    "description": "Bitcoin sidechain module for Lotion and Coins (A Cosmos Bitcoin peg zone implementation)",
+    "description_long": [
+       "This module is currently under active development but works as a fully-functional prototype on top of Bitcoin testnet",
+       "This module implements a simplified version of the 'Proof-of-Stake Bitcoin Sidechains' design. It works by holding Bitcoin in a special script which is a multisig spendable by consensus of the validators of a Tendermint blockchain.",
+       "This module can be dropped in to any Lotion app to enable the chain to hold reserves of Bitcoin, accept deposits, or pay out withdrawals in a low-trust manner. In addition, it lets the chain timestamp itself on the Bitcoin blockchain, increasing security of the chain by utilizing Bitcoin's proof-of-work."
+    ]
+}
