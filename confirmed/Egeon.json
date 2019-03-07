@@ -1,0 +1,15 @@
+{
+    "name": "Egeon",
+    "website":"http://egeon.io/",
+    "telegram": "https://t.me/EgeonChat",
+    "github": "https://github.com/egeonio",
+    "twitter": "https://twitter.com/AlexSiman",
+    "proof": [ 
+        "Verified by @alexsiman on telegram"
+    ],
+    "description": "A marketplace for blockchain projects, ICOs and STOs.",
+    "description_long": [
+       
+       "Community-driven marketplace for distributed due diligence, token sale and governance of blockchain projects."
+    ]
+}

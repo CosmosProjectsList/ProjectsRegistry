@@ -1,0 +1,17 @@
+{
+    "name": "OpenST",
+    "website":"https://openst.org/",
+    "github": "https://github.com/OpenSTFoundation/openst-contracts",
+    "forum": "https://discuss.openst.org/",
+    "whitepaper": "https://drive.google.com/file/d/0Bwgf8QuAEOb7Z2xIeUlLd21DSjQ/view",
+    "proof": [ 
+        "https://medium.com/ostdotcom/openst-mosaic-paper-released-for-community-review-b7e39c5f4a4a" 
+    ],
+    "description": "Enables building scalable blockchain token economies through the transposition of tokens via gateways between Ethereum and utility blockchains.",
+    "description_long": [
+       "OpenST is working on scalability and usability solutions for running high volume applications on Ethereum.",
+       "The OpenST Protocol enables building scalable blockchain token economies through the transposition of tokens via gateways between Ethereum and utility blockchains. The protocol also includes components that enable economy administrators to design token-economies to support their community and business goals.",
+       "OpenST Mosaic is a layer II protocol for scaling Dapps on Ethereum by running meta-blockchains on Ethereum to scale to thousands of transactions per second."
+    ]
+}
+

@@ -1,0 +1,14 @@
+{
+    "name": "Wisdom of Crowd",
+    "website":"http://www.wisdomofcrowd.org/",
+    "telegram": "https://t.me/wisdomofcrowd5",
+    "github": "https://github.com/swswsw/predictionmkt",
+    "proof": [ 
+        "https://twitter.com/WisdomOfCrowd5/status/1045076262698405888",
+        "https://medium.com/wisdom-of-crowd/wisdom-of-crowd-decentralized-prediction-market-on-lotionjs-with-tendermint-blockchain-77082e7c37d4"
+    ],
+    "description": "Decentralized prediction market.",
+    "description_long": [
+        "Open Sourced decentralized prediction market on lotionjs with tendermint. Process a prediction market through multi phase system (market, oracle, challenge, vote and distribution) to allows users to easily and securely allow user to open market, place bets, as well as to challenge and vote when they believe oracle is not giving the correct results."
+     ]
+}

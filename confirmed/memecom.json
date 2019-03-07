@@ -1,0 +1,14 @@
+{
+    "name": "memecom",
+    "website":"https://memecom.co/",
+    "discord": "https://discord.gg/cgQ4vHQ",
+    "proof": [ 
+        "https://www.reddit.com/r/cryptodevs/comments/9oz1a5/memecom_trade_dank_memes_on_a_bitcoin/" 
+    ],
+    "description": "Collect and trade dank memes on the blockchain",
+    "description_long": [
+       "Bitcoin proof-of-stake sidechain that lets you buy and sell shares of any meme, each backed by Bitcoin. When you buy shares, the BTC you pay is held in decentralized reserves (nobody can run away with the money, unlike ICOs), and you can choose to sell your shares and get BTC back. You can see my technical writeup of the Bitcoin proof-of-stake sidechain design here: https://github.com/mappum/bitcoin-peg/blob/master/bitcoinPeg.md",
+       "All of it is built on Cosmos and our framework Lotion, not Ethereum."
+    ]
+}
+

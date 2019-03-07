@@ -1,0 +1,15 @@
+{
+    "name": "playlist",
+    "website":"https://www.playlist.com/",
+    "itunes": "https://join.playlist.com/Q4JKOUTnFN",
+    "instagram": "https://www.instagram.com/playlist_chat/",
+    "twitter": "http://twitter.com/playlist",
+    "facebook": "http://www.facebook.com/playlist",
+    "proof": [ 
+        "https://medium.com/tendermint/tokenizing-the-music-industry-with-play-protocol-ea929de52210" 
+    ],
+    "description": "Music made social.",
+    "description_long": [
+       "Playlist provides a fully licensed, ad-supported music streaming service that generates 10 times the user engagement of Pandora and Spotify. For the first time, token economics can enable millions of music fans to participate in the music economy. However, bringing Playlist users into the token economy right now would overwhelm conventional smart contract platforms. To overcome that challenge, Playlist is leveraging the unique capabilities of the Cosmos platform to bring incentivized cooperation at consumer scale."
+    ]
+}

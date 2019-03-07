@@ -1,0 +1,20 @@
+{
+    "name": "Kuende",
+    "website":"https://kuende.com/",
+    "telegram": "http://t.me/kuende",
+    "email": "ico@kuende.com",
+    "github": "https://github.com/kuende",
+    "itunes": "https://itunes.apple.com/us/app/kuende/id1029211963",
+    "play": "https://play.google.com/store/apps/details?id=com.apparatus.kuende",
+    "kakao": "https://open.kakao.com/o/ga3QDX0",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=4456371.0",
+    "medium": "https://medium.com/kuende",
+    "whitepaper": "https://ico.kuende.com/documentation/Kuende_Whitepaper.pdf",
+    "linkedin": "https://www.instagram.com/kuende_com",
+    "facebook": "https://www.facebook.com/Kuende.world",
+    "twitter": "https://twitter.com/kuende_com",
+    "proof": [ 
+        "https://medium.com/kuende/cosmos-network-kuendes-home-for-its-own-decentralized-solution-e60d9a74cb4"
+    ],
+    "description": "Social network that uses gamified challenges to reward real life social interaction."
+}

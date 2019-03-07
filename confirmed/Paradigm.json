@@ -1,0 +1,20 @@
+{
+    "name": "Paradigm",
+    "website":"https://paradigm.market/",
+    "whitepaper": "https://paradigm.market/whitepaper.pdf",
+    "github": "https://github.com/ParadigmFoundation",
+    "chat": "https://chat.paradigm.market/?utm_source=site",
+    "reddit": "https://www.reddit.com/r/ParadigmFoundation/",
+    "twitter": "https://twitter.com/paradigmfdn",
+    "medium": "https://medium.com/paradigm-foundation",
+    "telegram": "https://t.me/paradigmfdn",
+    "proof": [ 
+        "Whitepaper pages 5-9 -> https://paradigm.market/whitepaper.pdf" 
+    ],
+    "description": "The Decentralized Relay Protocol & Platform",
+    "description_long": [
+       "Paradigm unifies liquidity by shifting the roles of liquidity management and order broadcast from centralized relayers to a public, decentralized network. Exchanges built on the protocol are responsible solely for trade execution. Paradigm abstracts the model of proprietary liquidity by allowing exchanges and traders to gain access to a single, global liquidity pool.",
+       "Paradigm provides simple interfaces and libraries for developers to implement smart contract based financial primitives. These settlement systems can be anything from spot exchange to derivatives, loans, and more. Any hybrid decentralized settlement logic (with off-chain order relay with on-chain settlement) can be implemented. Paradigm enables diverse and open marketplaces for custom exchange logic and tokenized financial instrumentation. Platform for Hybrid Decentralized Exchange Logic"
+    ]
+}
+

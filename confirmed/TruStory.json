@@ -1,0 +1,14 @@
+{
+    "name": "Tru Story",
+    "website":"https://www.trustory.io/",
+    "twitter":"https://twitter.com/isTruStory",
+    "blog": "https://www.trustory.io/blog",
+    "discourse": "https://discourse.trustory.io/",
+    "proof": [ 
+        "https://github.com/irisnet/irisnet/blob/master/WHITEPAPER.md" 
+    ],
+    "description": "Figure out what's true or what's not.",
+    "description_long": [
+       "Trustory is a social network for experts to identify what is true and what isn't. You earn tokens for identifying accurate information and refuting inaccurate information and lose tokens otherwise. The app is currently focused exclusively on cryptocurrency-related topics."
+    ]
+}
