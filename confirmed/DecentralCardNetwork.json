@@ -1,0 +1,17 @@
+{
+    "name": "Decentral Card Network",
+    "website":"https://www.decentral-card.net/",
+    "telegram": "https://t.me/DecentralCardNetwork",
+    "github": "https://github.com/DecentralCardGame",
+    "whitepaper": "https://github.com/DecentralCardGame/whitepaper/blob/master/whitepaper.pdf",
+    "proof": [ 
+        "https://github.com/search?q=org%3ADecentralCardGame+tendermint&type=Code"
+    ],
+    "description": "Have an Opinion and Play Card Games!",
+    "description_long": [
+        "The Decentral Card Network (DCN) combines two of your most beloved things:",
+        "1) having an opinion and",
+        "2) playing card games.",
+        "We plan on giving you a way to express both of these by giving the player, that is you, the opportunity to actively create the game by envisioning new cards, judging other people’s cards and test them in real games. Also the authors own the rights of their creations, the player own the cards and the whole network is decentralized, which is the reason why everything will be built on a blockchain."
+    ]
+}

@@ -3,7 +3,8 @@
     "website":"http://nomic.io/",
     "github": "https://github.com/nomic-io",
     "proof": [ 
-        "https://github.com/nomic-io/bitcoin-peg"
+        "https://github.com/nomic-io/bitcoin-peg",
+        "https://github.com/mappum/bitcoin-peg/blob/master/bitcoinPeg.md"
     ],
     "description": "Bitcoin sidechain module for Lotion and Coins (A Cosmos Bitcoin peg zone implementation)",
     "description_long": [

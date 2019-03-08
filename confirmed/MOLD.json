@@ -1,0 +1,17 @@
+{
+    "name": "MOLD",
+    "website":"https://www.moldproject.org/",
+    "telegram": "https://t.me/MOLD_EN",
+    "medium": "https://medium.com/mold-project",
+    "twitter": "https://twitter.com/MOLD_games_EN",
+    "facebook": "https://www.facebook.com/MOLD-Project-2099514830062275/",
+    "github": "https://github.com/moldcoin",
+    "whitepaper": "https://www.moldproject.org/whitepaper.pdf",
+    "proof": [ 
+        "https://medium.com/mold-project/roadmap-jp-93da9e0d9db4"
+    ],
+    "description": "Fair and secure distributed gaming platform.",
+    "description_long": [
+        "MOLD is a fair and secure decentralized gaming platform that supports the development of new games and simplifies the transaction of valuable data such as in-game items, weapons and armors. MOLD uses tokens uniquely defined on MOLD chain to allow in-game items, weapons and gears to circulate in the market without going through a third party. Unlike previous centralized game structures, game tokens used in MOLD are not owned by the game operator. Thus, a brand-new value to the data will be applied within such virtual reality called games. With the advancement of technology and human evolution, this new value created in the virtual reality becomes more realistic and offers the possibility of gradually bringing about great economic benefits. In order to maintain fairness, MOLD allows transactions to be verified by the user, where flow of funds are visible to avoid counterfeit currency, double spending and other fraudulent acts"
+    ]
+}

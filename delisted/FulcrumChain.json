@@ -1,0 +1,14 @@
+{
+    "name": "Fulcrum Chain",
+    "website":"https://www.fulcrumchain.com/",
+    "telegram": "https://t.me/Fulcrum_Chain",
+    "github": "https://github.com/fulcrumchain",
+    "whitepaper": "https://www.fulcrumchain.com/docs/fulcrum-business-whitepaper.pdf",
+    "reason": "disappeard",
+    "proof": [ 
+        "https://medium.com/@FulcrumChain/fulcrum-and-cosmos-network-introducing-remint-tendermint-with-switchable-consensus-engines-6173f9ad596a"
+    ],
+    "description_long": [
+        "Fulcrum provides enterprises with a hyper-scalable enterprise level blockchain architecture which enables them to develop, deploy and scale up distributed blockchain applications which can also be integrated into their legacy systems and data."
+    ]
+}

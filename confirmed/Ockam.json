@@ -1,0 +1,15 @@
+{
+    "name": "Ockam",
+    "website":"https://www.ockam.io/",
+    "medium": "https://medium.com/ockam",
+    "twitter": "https://twitter.com/Ockam_io",
+    "github": "https://github.com/ockam-network/ockam",
+    "proof": [ 
+        "https://github.com/ockam-network/ockam/search?q=tendermint&unscoped_q=tendermint",
+        "https://twitter.com/zmanian/status/1072243894757150720"
+    ],
+    "description": "Identity, Trust and Interoperability of connected devices. Simple, as it should be.",
+    "description_long": [
+        "Ockam is a new approach to help developers innovate with the Internet of Things. The platform rolls up the best practices in secure connected device systems, and abstracts away technical complexity below a developer experience layer. Ockam’s blockchain based infrastructure provides a serverless experience so developers can innovate - fast."
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Bitsong",
+    "website":"https://bitsong.io/",
+    "whitepaper": "https://bitsong.io/docs/whitepaper_en.pdf",
+    "telegram": "https://t.me/bitsong_ico",
+    "github": "https://github.com/BitSongOfficial",
+    "twitter": "https://twitter.com/BitSongOfficial",
+    "facebook": "https://www.facebook.com/BitSongOfficial/",
+    "reddit": "https://www.reddit.com/r/bitsong/",
+    "linkedin": "https://www.linkedin.com/company/bitsong/",
+    "proof": [ 
+        "https://medium.com/@FulcrumChain/fulcrum-and-cosmos-network-introducing-remint-tendermint-with-switchable-consensus-engines-6173f9ad596a"
+    ],
+    "description": "the new Music Streaming era",
+    "description_long": [
+        "BitSong is a new music streaming platforms, which will be built using the Blockchain Technologies and the IPFS distribuited filesystem.",
+        "BitSong is a project dedicated to musicians and their fans, which aims to overcome the bureaucratic and economic obstacles within this industry and reward artists and users for simply using the platform.",
+        "On the BitSong platform you (artist) will be able to produce songs in which an advertiser can attach advertisements and users can access from any device. Funds via the Bitsong token $ BTSG will be credited to the artist wallet immediately and they will be able to withdraw or convert as they see fit.",
+        "Artists need no longer to wait several months before a record label sends various reports, they can check the progress in real time directly within the Wallet."
+    ]
+}

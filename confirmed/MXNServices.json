@@ -1,0 +1,12 @@
+{
+    "name": "MXNSuite",
+    "website":"https://github.com/xmnservices",
+    "github": "https://github.com/xmnservices/xmnsuite",
+    "proof": [ 
+        "https://github.com/xmnservices/xmnsuite/search?q=tendermint&unscoped_q=tendermint"
+    ],
+    "description": "XMNSuite is a CLI application that enables the creation and deployment of independent blockchain applications. ",
+    "description_long": [
+        "XMNSuite is a CLI application that enables the creation and deployment of independent blockchain applications. It uses lua as its scripting engine and Tendermint as its byzantine fault tolerant consensus algorithm."
+    ]
+}
