@@ -1,0 +1,13 @@
+{
+    "name": "Comercio Network",
+    "website":"https://commercio.network/",
+    "email": "info@commerc.io",
+    "whitepaper": "https://github.com/QOSGroup/whitepaper",
+    "proof": [ 
+        "verified via (@RiccardoMontagnin on Telegram)"
+    ],
+    "description": " EASIEST WAY FOR COMPANIES TO MANAGE BUSINESS DOCUMENTS WITH THE BLOCKCHAIN TECHNOLOGY.",
+    "description_long": [
+        "We think that the blockchain technology has a learning curve too high for anyone, so we want to lower the entry barrier by making it an easy to understand API . We are building a simple, elegant, flexible and solid solution based on the best ideas and solution in the space. We have eliminated the complexity so you can work with commercio.network in just a few minutes."
+    ]
+}
