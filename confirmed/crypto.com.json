@@ -1,0 +1,27 @@
+{
+    "name": "crypto.com",
+    "website":"https://www.crypto.com/en/chain",
+    "github": "https://github.com/crypto-com",
+    "facebook": "https://www.facebook.com/CryptoComOfficial",
+    "twitter": "https://twitter.com/cryptocom",
+    "telegram": "https://t.me/CryptoComOfficial",
+    "rss": "https://feedly.com/i/subscription/feed/https://blog.crypto.com/rss/",
+    "discord": "https://discord.gg/B6cZahJ",
+    "email": "contact@crypto.com",
+    "linkedin": "https://hk.linkedin.com/company/cryptocom",
+    "medium": "https://blog.crypto.com/",
+    "reddit": "https://www.reddit.com/r/Crypto_com/",
+    "youtube": "https://www.youtube.com/channel/UCOMprzxakZOqmY23LYIawmg",
+    "instagram": "https://www.instagram.com/cryptocomofficial/",
+    "whitepaper": "https://www.crypto.com/images/chain_technical_whitepaper.pdf",
+    "faq": "https://help.crypto.com/",
+    "proof": [ 
+        "https://blog.crypto.com/crypto-com-chain-dev-update-1/",
+        "https://github.com/crypto-com/chain",
+        "Whitepaper page 7 -> https://www.crypto.com/images/chain_technical_whitepaper.pdf"
+    ],
+    "description": "Pay and be paid in crypto anywhere, with any crypto, for free.",
+    "description_long": [
+       "We intend that Crypto.com Chain will be a high performing native blockchain solution, which will make the transaction flows between crypto users and merchants accepting crypto seamless, cost-efficient and secure."
+    ]
+}
