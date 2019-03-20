@@ -9,9 +9,7 @@ NOTE: If you do not have a link to one of the fields simply remove it
 
 
 
-{
-
-    "name": "SHORT_Project_Name_8_to_16_characters_max)",
+    {"name": "SHORT_Project_Name_8_to_16_characters_max)",
 
     "website":"url_prefixed_with_http_or_https",
 
@@ -57,7 +55,6 @@ NOTE: If you do not have a link to one of the fields simply remove it
 
        "multiline_long_description_of_your_project"
 
-    ]
-}
+    ]}
 
 
