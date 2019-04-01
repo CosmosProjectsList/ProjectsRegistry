@@ -1,0 +1,14 @@
+{
+    "name": "Chainpoint",
+    "website":"https://chainpoint.org/",
+    "github": "https://github.com/chainpoint",
+    "facebook": "https://www.facebook.com/chainpoint",
+    "twitter": "https://twitter.com/chainpnt",
+    "proof": [ 
+        "Chainpoint Core -> https://medium.com/chainpoint/chainpoint-roadmap-2019-d04e726b6e85"
+    ],
+    "description": "Open standard for creating a timestamp proof of any data, file, or process.",
+    "description_long": [
+       "Chainpoint links a hash of your data to a blockchain and returns a timestamp proof. A Chainpoint Node receives hashes which are aggregated together using a Merkle tree. The root of this tree is published in a Bitcoin transaction. The final Chainpoint proof defines a set of operations that cryptographically link your data to the Bitcoin blockchain."
+    ]
+}
