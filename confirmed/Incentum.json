@@ -1,0 +1,35 @@
+{"name": "Incentum",
+
+"website":"https://incentum.network",
+
+"github": "https://github.com/incentum-network",
+
+"twitter": "https://twitter.com/incentum",
+
+"discord": "url_prefixed_with_http_or_https",
+
+"email": "billd@incentum.network",
+
+"linkedin": "https://www.linkedin.com/in/williamjohndonahue/",
+
+"medium": "https://medium.com/@incentum",
+
+"youtube": "https://www.youtube.com/channel/UCAEAk8aGDMazxjhX8a7bmHg",
+
+"whitepaper": "https://incentum.network/wp-content/uploads/2018/12/wp-1.pdf",
+
+"proof": [ 
+
+    "https://medium.com/@incentum/introducing-praxis-1f17fc917069"
+
+],
+
+"description": "Praxis and Praxis Developer - bring Smart Contracts to everyone",
+
+"description_long": [
+
+  "Incentum is a softare company specializing in Smart Contracts and beautiful UI’s to develop and use Smart Contracts.",
+  "Smart Contracts enable the creation of business models that materialize value and opportunity through incentives.",
+  "Incentum supplies all the tools necessary to successfully create and execute Smart Contracts in a highly secure and verifiable environment."
+
+]}
