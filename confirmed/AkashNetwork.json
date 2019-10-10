@@ -1,0 +1,22 @@
+{
+    "name": "Akash Network",
+    "website":"https://akash.network/",
+    "github": "https://github.com/ovrclk/akash/",
+    "riot": "https://akash.network/chat",
+    "discord": "https://akash.network/l/discord",
+    "telegram": "https://t.me/akashnw",
+    "whitepaper": "https://akash.network/l/whitepaper",
+    "linkedin": "https://www.linkedin.com/company/ovrclk/",
+    "twitter": "https://twitter.com/akashnet_",
+    "economics": "https://akash.network/l/econ-paper",
+    "facebook": "https://www.facebook.com/akashnw/",
+    "blog": "https://blog.akash.network/",
+    "proof": [ 
+        "https://github.com/ovrclk/akash/search?q=tendermint&unscoped_q=tendermint"
+    ],
+    "description": "The Serverless Supercloud",
+    "description_long": [
+       "Akash is the world’s first super cloud for serverless computing, empowering the architects and builders of the internet with greater access, freedom, and efficiency.",
+       "Akash network enables a permissionless, open, and secure marketplace for unused compute cycles."
+    ]
+}
